@@ -1,5 +1,5 @@
 # Image-Stitching
-Generate a kind of Panaromic Image using two images (left.jpg, right.jpg). 
+Generate a kind of Panoramic Image using two images (left.jpg, right.jpg). 
 
 Input Left:
 ![cmu0](left.jpg)
